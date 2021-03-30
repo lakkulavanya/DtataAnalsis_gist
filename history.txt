@@ -1,0 +1,110 @@
+    1  cd d:
+    2  cd e:
+    3  cd c:
+    4  mkdir myfolder
+    5  cd c/myfolder
+    6  cd c:/myfolder
+    7  ls
+    8  Ls
+    9  rm demo.txt
+   10  ls
+   11  rm filename{1..10}.txt
+   12  ls
+   13  echo "Hello"
+   14  ls
+   15  touch hello.txt
+   16  ls
+   17  echo "Hello" >>hello.txt
+   18  cat hello.txt
+   19  echo {1..100}
+   20  echo {1..100} >>hello.txt
+   21  touch myfiles{1..100}.txt
+   22  ls
+   23  rm *.txt
+   24  ls
+   25  touch file1.txt
+   26  touch file2.txt
+   27  ls
+   28  cat file1.txt >> file2.txt
+   29  cat file2.txt >> file1.txt
+   30  cat file1.txt
+   31  touch profile.txt
+   32  echo "BHAVITHA MOTAPOTULA" "bhavitha3015@gmail.com" "172U1A0531" "16-6-202 Srinivasa Agraharam Nellore" >> profile.txt
+   33  $ echo "BHAVITHA MOTAPOTULA" "bhavitha3015@gmail.com" "172U1A0531" "16-6-202 srinivasa Agraharam Nellore"
+   34  mkdir bhavitha
+   35  touch profile.txt
+   36  touch profile.txt
+   37  echo "Bhavitha Motapotula" "bhavitha3015@gmail.com" "172U1A0531" "16-6-202 Srinivasa Agraharam Nellore"
+   38  echo "Bhavitha Motapotula" "bhavitha3015@gmail.com" "172U1A0531" "16-6-202 Srinivasa Agraharam Nellore"
+   39  echo "Bhavitha Motapotula" "bhavitha3015@gmail.com" "172U1A0531" "16-6-202 Srinivasa Agraharam Nellore"
+   40  echo "Bhavitha Motapotula" "bhavitha3015@gmail.com" "172U1A0531" "16-6-202 Srinivasa Agraharam Nellore" >> PROFILE.TXT
+   41  mkdir abcd
+   42  cd abcd
+   43  git clone 'https://github.com/vijaykumar10022/T-ShirtSize'
+   44  pwd
+   45  ls
+   46  touch demo.txt
+   47  ls
+   48  mkdir GIST
+   49  LS
+   50  cd GIST
+   51  pwd
+   52  cd ..
+   53  cd
+   54  pwd
+   55  cd e:
+   56  pwd
+   57  cd d:
+   58  \pwd
+   59  cd c:
+   60  /c/Users/dell/Desktop/lavanya-496
+   61  cd /c/Users/dell/Desktop/lavanya-496
+   62  pwd
+   63  echo "Hello"
+   64  echo 1..100
+   65  echo {1..100}
+   66  echo {1..1000}
+   67  touch file{1..100}.txt
+   68  touch python{20..50}.py
+   69  touch clanguage{50..70}.cpp
+   70  ls
+   71  rmdir gist 
+   72  ls
+   73  rm demo.txt
+   74  ls
+   75  rm file(1..10).txt
+   76  rm file{1..10}.txt
+   77  ls
+   78  rm file{50..100}
+   79  rm file{50..99}
+   80  ls
+   81  rm clanguage{50..70}
+   82  ls
+   83  rm clanguage{50..60}
+   84  ls
+   85  rm *.txt
+   86  ls
+   87  rm *.cpp
+   88  ls
+   89  rm *.py
+   90  ls
+   91  nano myfile.txt
+   92  cat myfile.txt
+   93  nano myfile.txt
+   94  cat myfile.txt
+   95  nano myfile.txt
+   96  cat myfile.txt
+   97  echo "Hello" >> myfile.txt
+   98  echo "Hello" >> myfile1.txt
+   99  cat myfile2.txt
+  100  cat myfile1.txt
+  101  echo {1..1000} >> myfile2.txt
+  102  cat myfile2.txt
+  103  mv myfile2.txt myfile1.txt
+  104  cat myfile1.txt
+  105  ls
+  106  cp myfile1.txt myfile.txt
+  107  cat myfile.txt
+  108  ls
+  109  history
+  110  history >>history.txt
